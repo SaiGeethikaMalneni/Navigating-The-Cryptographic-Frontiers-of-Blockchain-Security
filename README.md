@@ -69,4 +69,4 @@ Summarize the key findings from the paper, emphasizing the continual evolution o
 
 ## License
 
-This paper is licensed under . See the LICENSE file for details.
+This paper is licensed under CC0 1.0 Universal.
